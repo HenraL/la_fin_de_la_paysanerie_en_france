@@ -16,6 +16,6 @@
  - Go on the *website*: _http://www.frisechronos.fr_
  - Then on clic on the button _"Cliquez pour commencer"_
  - In the editor clic on the icon that looks like an open folder _(it is next to the arow curved to the left)_, if you *hover* over the open folder the message _"Ouvrir un fichier"_ will appear with a sentence to explain what file is necessary.
- - in the *pop-up window*, find te file *frise de données de 1856 à 1910.bin*
+ - in the *pop-up window*, find the file *frise de données de 1856 à 1910.bin*
  - click on *open*
  - you can now see the timeline.
